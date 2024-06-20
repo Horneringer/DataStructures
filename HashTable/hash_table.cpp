@@ -1,6 +1,5 @@
 #include "hash_table.hpp"
 
-#include <hashtable.h>
 #include <iostream>
 #include <vector>
 
